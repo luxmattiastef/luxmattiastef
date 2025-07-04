@@ -1,5 +1,6 @@
 ## Fancy meeting you here 👋
 
+I am Mattia, student of the **Big Data Engineer** course powered by Randstad.
 I am a data engineer studying and practicing with data everyday. My focus is machine learning, data analysis and visualizations.
 Always open to try new things and collaborate on exciting, new projects!
 
@@ -10,7 +11,7 @@ Always open to try new things and collaborate on exciting, new projects!
 
 ## 🚀 Projects
 
-[PowerBI Studio Ghibli Dashboard](https://github.com/gaiacassinelli1/POWER-BI-Studio-Ghibli)
+[PowerBI Studio Ghibli Dashboard (Team Project)](https://github.com/gaiacassinelli1/POWER-BI-Studio-Ghibli)
 
 ## 📫 Where you can find me:
 [LinkedIn](https://www.linkedin.com/in/g-mattia-stefanizzi/)
