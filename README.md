@@ -1,4 +1,20 @@
-## Hi there 👋
+## Fancy meeting you here 👋
+
+I am a data engineer studying and practicing with data everyday. My focus is machine learning, data analysis and visualizations.
+Always open to try new things and collaborate on exciting, new projects!
+
+## 🔧 Technologies & Tools
+- 🐍 Python, Pandas, SKLearn, Tensorflow
+- 📊 PowerBI
+- 📅 MySQL, MongoDB, Spark
+
+## 🚀 Projects
+
+TBA
+
+## 📫 Where you can find me:
+[LinkedIn](https://www.linkedin.com/in/g-mattia-stefanizzi/)
+
 
 <!--
 **luxmattiastef/luxmattiastef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
