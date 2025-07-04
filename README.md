@@ -10,7 +10,7 @@ Always open to try new things and collaborate on exciting, new projects!
 
 ## 🚀 Projects
 
-TBA
+[PowerBI Studio Ghibli Dashboard](https://github.com/gaiacassinelli1/POWER-BI-Studio-Ghibli)
 
 ## 📫 Where you can find me:
 [LinkedIn](https://www.linkedin.com/in/g-mattia-stefanizzi/)
